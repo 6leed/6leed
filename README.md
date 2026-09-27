@@ -14,3 +14,5 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ives32d5bk60sjwc6ud6qo2ba&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profile">
   </a>
 </div>
+<p align="center"> <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/79c510b4-7775-4235-aa21-5db4f44a57c4" /> <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/fae3d20d-f8e2-4aa3-91fe-67060a435219" /> <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/9a74e67b-a0cf-427f-b110-4601b6e025b2" />
+
