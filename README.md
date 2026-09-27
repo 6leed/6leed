@@ -1,8 +1,14 @@
-<p align="center">calvin ou cal</p>
+<div align="center" style="line-height: 1;">
 
-<p align="center">i use strictly he / him , masc terms only pls</p>
+<img src="https://readme-typing-svg.demolab.com?font=Arial&size=16&duration=3000&pause=1000&color=C70404&center=true&vCenter=true&repeat=true&width=500&height=25&lines=calvin+ou+cal" alt="calvin ou cal"><br>
+<img src="https://readme-typing-svg.demolab.com?font=Arial&size=16&duration=3000&pause=1000&color=C70404&center=true&vCenter=true&repeat=true&width=500&height=25&lines=strictly+he+%2F+him+%2C+masc+terms+only" alt="strictly he him">
 
-<p align="center"> https://fluffle.cc/gotham </p>
+</div>
+
+
+<p align="center">
+  <a href="https://fluffle.cc/gotham" style="color:#870101;">https://fluffle.cc/gotham</a>
+</p>
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
